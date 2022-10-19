@@ -1,0 +1,13 @@
+.navBar{
+    width: auto;
+    height: auto;
+    padding: 10px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+p{
+    color: white;
+    padding-right: 20px;
+}

@@ -1,0 +1,22 @@
+.navBar{
+    width: auto;
+    height: auto;
+}
+#links{
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#blank{
+    width: auto;
+    height: 7rem;
+    background-color: white;
+    border: solid black;
+    border-width: 1px;
+}
+p{
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
